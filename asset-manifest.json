@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Stickynotes-app/static/css/main.6610708d.css",
+    "main.js": "/Stickynotes-app/static/js/main.8d6a491b.js",
+    "static/js/787.5cf4e54a.chunk.js": "/Stickynotes-app/static/js/787.5cf4e54a.chunk.js",
+    "static/media/bg.jpg": "/Stickynotes-app/static/media/bg.078c8babde09f6b0b901.jpg",
+    "static/media/post-it-note.png": "/Stickynotes-app/static/media/post-it-note.bb24903ea64aa151612a.png",
+    "index.html": "/Stickynotes-app/index.html",
+    "main.6610708d.css.map": "/Stickynotes-app/static/css/main.6610708d.css.map",
+    "main.8d6a491b.js.map": "/Stickynotes-app/static/js/main.8d6a491b.js.map",
+    "787.5cf4e54a.chunk.js.map": "/Stickynotes-app/static/js/787.5cf4e54a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6610708d.css",
+    "static/js/main.8d6a491b.js"
+  ]
+}
